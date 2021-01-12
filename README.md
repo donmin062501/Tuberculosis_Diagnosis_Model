@@ -1,7 +1,7 @@
 # Tuberculosis_Diagnosis_Model
 
-  • Studied various quant strategies using python libraries
+  • Constructed of convoluntional neural networks (for more detailed info, please look at the model.summary() under TB_classification.ipynb file)
 
-  • Demonstrated magic formula investing, F-Score investing, Momentum investing, web scraping, backtesting
+  • Binary classification model (either infected tuberculosis or normal)
 
-  • Learned PER, ROA, PBR, PSR, PCR, F-Score, Momentum
+  • Demonstrated high prediction accuracy of 85%
