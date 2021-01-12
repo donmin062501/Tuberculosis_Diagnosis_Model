@@ -4,7 +4,7 @@
 
     • Binary classification model (either infected tuberculosis or normal)
 
-    • Demonstrated high prediction accuracy of 85%
+    • Demonstrated a high prediction accuracy of 85%
     
 # Acknowledgements:
 Datasets can be acquired at https://www.kaggle.com/kmader/pulmonary-chest-xray-abnormalities?select=ChinaSet_AllFiles
